@@ -1,0 +1,159 @@
+1. What is the purpose of a sales forecast?
+A) To predict the amount of profit a company will make in a specific period
+B) To estimate future sales based on historical data and market conditions
+C) To calculate the company's overhead costs
+D) To determine the price points for a company’s products
+
+Correct Answer: B) To estimate future sales based on historical data and market conditions
+
+2. A Profit and Loss (P&L) statement shows:
+A) The company’s overall market share
+B) The company’s revenues, costs, and expenses over a specific period
+C) The company’s total assets and liabilities
+D) A summary of all investments in the company
+
+Correct Answer: B) The company’s revenues, costs, and expenses over a specific period
+
+3. Which of the following is NOT typically included in a Profit and Loss statement?
+A) Gross Profit
+B) Operating Expenses
+C) Cash Balances
+D) Net Income
+
+Correct Answer: C) Cash Balances
+
+4. Which of these is a common method for allocating costs in a budget?
+A) Allocating based on department size
+B) Allocating based on projected revenue
+C) Allocating equally across all expenses
+D) Allocating based on historical data and future predictions
+
+Correct Answer: D) Allocating based on historical data and future predictions
+
+5. Which statement best describes "cash flow"?
+A) The movement of money into and out of the business
+B) The company’s total revenue
+C) The company’s profit after taxes
+D) The company’s total liabilities
+
+Correct Answer: A) The movement of money into and out of the business
+
+6. In a balance sheet, which of the following represents a company’s assets?
+A) Liabilities and equity
+B) Cash flow from operations
+C) What the company owns, such as property and equipment
+D) The company’s market share
+
+Correct Answer: C) What the company owns, such as property and equipment
+
+7. What is the primary purpose of a balance sheet?
+A) To track sales and marketing expenses
+B) To show the company’s financial position at a specific point in time
+C) To estimate future revenues
+D) To measure the company’s brand value
+
+Correct Answer: B) To show the company’s financial position at a specific point in time
+
+8. What is the key difference between cash flow and profit?
+A) Profit includes both revenue and expenses; cash flow only focuses on cash transactions
+B) Cash flow includes both revenue and expenses; profit only focuses on cash transactions
+C) Profit only reflects liabilities, while cash flow includes assets
+D) Cash flow and profit are the same concept
+
+Correct Answer: A) Profit includes both revenue and expenses; cash flow only focuses on cash transactions
+
+9. What does a fundraising round typically focus on?
+A) Generating sales and revenue
+B) Raising capital to fund business growth or operations
+C) Reducing liabilities
+D) Developing a new product line
+
+Correct Answer: B) Raising capital to fund business growth or operations
+
+10. Which of the following is an example of equity financing?
+A) Taking a loan from a bank
+B) Selling shares of the company to investors
+C) Issuing bonds to the public
+D) Borrowing money from a supplier
+
+Correct Answer: B) Selling shares of the company to investors
+
+11. What does "valuation" refer to in the context of fundraising?
+A) The amount of money a company needs to raise
+B) The price at which a company’s shares are sold to investors
+C) The market value of a company's assets and liabilities
+D) The process of determining the current worth of a company
+
+Correct Answer: D) The process of determining the current worth of a company
+
+12. When preparing a budget, which of the following is the most accurate description of "fixed costs"?
+A) Costs that vary directly with sales volume
+B) Costs that remain constant regardless of the level of production or sales
+C) Costs that can be changed each month
+D) Costs that are only related to inventory
+
+Correct Answer: B) Costs that remain constant regardless of the level of production or sales
+
+13. Which of the following is a typical example of variable costs?
+A) Rent on office space
+B) Salaries of full-time employees
+C) The cost of raw materials for production
+D) Depreciation of machinery
+
+Correct Answer: C) The cost of raw materials for production
+
+14. Which of the following best describes "Operating Expenses" in a Profit and Loss statement?
+A) The company’s cost of producing goods or services
+B) The company’s costs related to non-core business activities
+C) The company's interest payments and taxes
+D) The cost of financing the company’s debt
+
+Correct Answer: B) The company’s costs related to non-core business activities
+
+15. Which of the following is most likely to appear on a balance sheet?
+A) Total sales for the year
+B) Total liabilities and shareholders' equity
+C) Net income from the last quarter
+D) Monthly marketing expenses
+
+Correct Answer: B) Total liabilities and shareholders' equity
+
+16. How do investors typically value a startup?
+A) Based on the startup’s cash flow
+B) Based on its projected revenue and profit potential
+C) Based on the number of employees
+D) Based on the startup’s total assets only
+
+Correct Answer: B) Based on its projected revenue and profit potential
+
+17. Which of the following is true about "cash flow from operations"?
+A) It includes only the money invested by shareholders
+B) It refers to cash generated from the core business activities
+C) It is unrelated to the company’s profit and loss
+D) It only includes the money received from customers
+
+Correct Answer: B) It refers to cash generated from the core business activities
+
+18. A company that has a positive cash flow but is making losses could:
+A) Be facing liquidity problems due to poor cash management
+B) Be in a strong financial position, despite not being profitable
+C) Be headed for bankruptcy due to insufficient revenues
+D) Be in the process of raising capital from investors
+
+Correct Answer: A) Be facing liquidity problems due to poor cash management
+
+19. Which of the following would typically be included in a cash flow statement?
+A) Cost of goods sold
+B) Depreciation of fixed assets
+C) Non-operating income
+D) Total equity
+
+Correct Answer: B) Depreciation of fixed assets
+
+20. Which of the following is NOT a common method for determining the valuation of a company?
+A) Discounted Cash Flow (DCF)
+B) Comparable Company Analysis
+C) Price-to-Earnings (P/E) Ratio
+D) Earnings Before Interest and Taxes (EBIT)
+
+Correct Answer: D) Earnings Before Interest and Taxes (EBIT)
